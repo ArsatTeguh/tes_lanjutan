@@ -1,4 +1,1 @@
-const arsat = (arr) => {
-    console.log(arr);
-} 
-arsat('arr')
+// saya sudah keterima kerja di jogjakarta
