@@ -1,1 +1,1 @@
-// saya sudah keterima kerja di jogjakarta
+// saya ragu mau merantau ke luar kota
