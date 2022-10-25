@@ -1,6 +1,4 @@
-console.log('file dari teguh')
-const teguh = (arr) => {
-console.log(arr);
-}
-
-teguh('arr')
+const arsat = (arr) => {
+    console.log(arr);
+} 
+arsat('arr')
